@@ -1,7 +1,13 @@
 # 🎮 Four Block Game
 
 ## 📖 Overview
-The **Four Block Game** is a Java-based desktop application built using Swing. It is a strategic board game designed for both multiplayer and AI gameplay. The game emphasizes accessibility, featuring textured tiles to cater to players with color vision deficiency.
+The **Four Block Game** is a Java-based desktop application built using Swing. It is a strategic board game designed for both human multiplayer and AI gameplay. The game emphasizes accessibility, featuring textured tiles to cater to players with color vision deficiency.
+
+Click here to play the game [here](https://github.com/ShaimaBB/C2005-FOUR-Game/blob/8b8afb4d93b9131321b1eda624280e267c4b0d2f/Four.jar)
+
+Here is the demo video for
+-CPU vs CPU [here](https://github.com/ShaimaBB/C2005-FOUR-Game/blob/8b8afb4d93b9131321b1eda624280e267c4b0d2f/CPU_VS_CPU_Demo.mp4)
+-Human vs CPU [here](https://github.com/ShaimaBB/C2005-FOUR-Game/blob/8b8afb4d93b9131321b1eda624280e267c4b0d2f/Human_VS_CPU_Demo.mp4)
 
 ---
 
