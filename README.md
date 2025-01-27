@@ -21,25 +21,15 @@ Here is the demo video for
 - 💾 **Save and Load Features**:
   - Save all previously played games in `.dat` files.
   - Load saved games at any time to continue playing from where you left off.
-- 🖥️ **User-Friendly Interface**: Developed using Swing, providing a clean and intuitive layout.
-
----
-
-## 🎮 How It Works
-1. The game takes place on a grid-based board.
-2. Players take turns placing blocks (L-shaped and square).
-3. Each block must be placed strategically to maximize space usage while limiting the opponent's options.
-4. The goal is to fill the board completely or block the opponent from making a move.
-5. The game ends when no further moves are possible.
 
 ---
 ## 💡 How to Play
-1. Launch the game and choose between **Multiplayer** or **AI mode**.
-2. Select a textured theme for the tiles.
-3. Adjust the resolution, frame size, or font using the **Settings menu**.
-4. Follow the on-screen instructions to take turns placing blocks.
-5. Use the **Save Game** option to pause your game and save it in a `.dat` file.
-6. Resume a saved game by selecting the **Load Game** option and loading a `.dat` file.
+1. Launch the game and choose between Multiple human players or between AIs.
+2. Adjust the resolution, frame size, or font using the Settings menu.
+3. Players take turns placing blocks from the given 16 blocks on the grid.
+4. Each block must be placed strategically abiding the game rules to maximize space usage while limiting the opponent's options.
+5. The game can be paused and saved in the middle of the game, it's saved in a `.dat` file.
+7. Resume a saved game by selecting the Load Game option and loading a `.dat` file.
 
 ---
 
@@ -54,12 +44,13 @@ Here’s a preview of the game interface:
 ## 🔧 Technologies Used
 - **Programming Language**: Java
 - **GUI Framework**: Swing
-- **Development Tools**: IntelliJ IDEA, Eclipse, or other Java IDEs
-- **Version Control**: Git
 
 ---
 
 ## 🤝 Creators
-- **Developer**: Shaima Binte Bashar  
-- **Email**: shaima.bashar@example.com  
-- **LinkedIn**: [Shaima Binte Bashar](https://www.linkedin.com/in/shaima-bashar-0ab477328/)
+This was an academic project.
+- Shaima Binte Bashar  
+- Arnob Turja Ghosh
+- Steven Sproule
+- Colby Strang
+- Mashrur Rashid
