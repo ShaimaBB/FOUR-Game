@@ -41,7 +41,7 @@ The **Four Block Game** is a Java-based desktop application built using Swing. I
 Here’s a preview of the game interface:
 
 ![Game Interface Screenshot](https://github.com/ShaimaBB/C2005-FOUR-Game/blob/7658668ae97954bd6e716ca5527d282979d36c64/images/fourUIfront.png)
-
+![Game Interface Screenshot2](https://github.com/ShaimaBB/C2005-FOUR-Game/blob/358aed187ea077807ef816c0397b4760da9532a9/images/fourUIGame.png)
 
 ---
 
