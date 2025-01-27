@@ -6,8 +6,8 @@ The **Four Block Game** is a Java-based desktop application built using Swing. I
 Click here to play the game [here](https://github.com/ShaimaBB/C2005-FOUR-Game/blob/8b8afb4d93b9131321b1eda624280e267c4b0d2f/Four.jar)
 
 Here is the demo video for
- -CPU vs CPU [here](https://github.com/ShaimaBB/C2005-FOUR-Game/blob/8b8afb4d93b9131321b1eda624280e267c4b0d2f/CPU_VS_CPU_Demo.mp4)
- -Human vs CPU [here](https://github.com/ShaimaBB/C2005-FOUR-Game/blob/8b8afb4d93b9131321b1eda624280e267c4b0d2f/Human_VS_CPU_Demo.mp4)
+ - CPU vs CPU [here](https://github.com/ShaimaBB/C2005-FOUR-Game/blob/8b8afb4d93b9131321b1eda624280e267c4b0d2f/CPU_VS_CPU_Demo.mp4)
+ - Human vs CPU [here](https://github.com/ShaimaBB/C2005-FOUR-Game/blob/8b8afb4d93b9131321b1eda624280e267c4b0d2f/Human_VS_CPU_Demo.mp4)
 
 ---
 
