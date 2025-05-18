@@ -9,6 +9,8 @@ Here is the demo video for
  - CPU vs CPU [here](https://github.com/ShaimaBB/C2005-FOUR-Game/blob/8b8afb4d93b9131321b1eda624280e267c4b0d2f/CPU_VS_CPU_Demo.mp4)
  - Human vs CPU [here](https://github.com/ShaimaBB/C2005-FOUR-Game/blob/8b8afb4d93b9131321b1eda624280e267c4b0d2f/Human_VS_CPU_Demo.mp4)
 
+**NOTE: Due to it being an academic project we aren't allowed to post the codes** 
+
 ---
 
 ## ⭐ Features
